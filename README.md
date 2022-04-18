@@ -26,7 +26,7 @@
 ## 2. Mission 2
 
 - Tất cả các bạn unlock mission 1 sẽ bắt đầu mission 2
-- - Bắt đầu cung cấp tài liệu: [AWS Cloud Practitioner Essentials](https://cloudpractitioner.awsstudygroup.com/)
+- Bắt đầu cung cấp tài liệu: [AWS Cloud Practitioner Essentials](https://cloudpractitioner.awsstudygroup.com/)
 - Học và thi Practitioner: [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?scr=detail) 
 
 ## 3. Mission 3
