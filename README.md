@@ -33,7 +33,7 @@
 - Tham gia và hoàn tất khóa học **Cloud Computing Architect**
 - Nội dung khóa học **Cloud Computing Architect**
 
-	- 1. Các khái niệm cơ bản, **AWS Management Console, AWS CLI, AWS Support**
+	- Buổi 1: Các khái niệm cơ bản, **AWS Management Console, AWS CLI, AWS Support**
 	- 2. Dịch vụ mạng trong AWS, **VPC, ELB**
 	- 3. Dịch vụ tính toán trong AWS, **VPC, ELB**
 	- 4. Dịch vụ lưu trữ trong AWS, **S3, EBS, EFS, FSx, Storage GW**
