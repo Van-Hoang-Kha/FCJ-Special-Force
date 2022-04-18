@@ -7,6 +7,8 @@
 ### 1.1 Tạo AWS account
 
 - Để tạo tài khoản AWS các bạn tham khảo qua bài lab [TẠO TÀI KHOẢN AWS ĐẦU TIÊN](https://000001.awsstudygroup.com/vi/)
+- Mở thẻ Master card ảo trên ViettelPay và mở tài khoản AWS tham khảo tại [Master card ảo](https://github.com/Van-Hoang-Kha/FCJ-Special-Force/blob/master/File%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20l%C3%A0m%20th%E1%BA%BB%20master%20card.pdf)
+
 
 ### 1.2 Học làm Workshop
 
