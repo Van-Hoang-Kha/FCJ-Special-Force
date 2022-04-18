@@ -12,7 +12,7 @@
 
 - Để viết một Lab Guide, các bạn tham khảo [Cách viết một Lab Guide](https://van-hoang-kha.github.io/How-to-Write-Lab-Guides/)
 
-### 1.3 học vẽ kiến trúc AWS 
+### 1.3 Học vẽ kiến trúc AWS 
 
 - Để vẽ diagrams theo đúng **format và style** của sư phụ Gia Hưng, các bạn tham khảo đây: [Guide](https://drive.google.com/drive/folders/1kstbB-NduVOatVd72p0uv7zj8bI1Mpow)
 - Một kiến trúc AWS mẫu: [Kiến trúc AWS](https://drive.google.com/file/d/1nuxHzSKWq7tCv6sCyEYTInWn1anVkTNr/view?usp=sharing)
