@@ -1,4 +1,4 @@
-# Slogan: Attitude -> Ability -> Achievement
+# Attitude -> Ability -> Achievement
 
 ## 1. Mission 1
 
