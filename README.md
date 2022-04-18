@@ -26,7 +26,7 @@
 ## 2. Mission 2
 
 - Tất cả các bạn unlock mission 1 sẽ bắt đầu mission 2
-- Học và thi Practitioner
+- Học và thi **Practitioner**
 - Bắt đầu cung cấp tài liệu
 
 ## 3. Mission 3
