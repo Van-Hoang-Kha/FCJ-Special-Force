@@ -35,7 +35,7 @@
 
 ## 4. Mission 4
 
-- Bắt đầu luyện tập
-- Build profile
+- Bắt đầu tìm hiểu các kiến thức nâng cao tùy sở trường.
+- Xây dựng personal brand.
 
 
