@@ -1,6 +1,6 @@
 # FCJ Special Force
 
-# Attitude -> Ability -> Achievement
+# Slogan: Attitude -> Ability -> Achievement
 
 ## 1. Mission 1
 
