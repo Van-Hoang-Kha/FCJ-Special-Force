@@ -52,4 +52,7 @@
 - Bắt đầu tìm hiểu các kiến thức nâng cao tùy sở trường.
 - Xây dựng personal brand.
 
+## 5. Mission 5
+
+- Tham gia ứng tuyển tới các vị trí **Cloud Engineer**, **Cloud Architect** tại các **AWS partner**
 
