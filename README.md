@@ -32,6 +32,7 @@
 ## 3. Mission 3
 - Tham gia và hoàn tất khóa học **Cloud Computing Architect**
 - Nội dung khóa học **Cloud Computing Architect**
+
 	- 1. Các khái niệm cơ bản, **AWS Management Console, AWS CLI, AWS Support**
 	- 2. Dịch vụ mạng trong AWS, **VPC, ELB**
 	- 3. Dịch vụ tính toán trong AWS, **VPC, ELB**
@@ -43,6 +44,7 @@
 	- 9. Dịch vụ về **tự động hóa / DevOps** trong AWS
 	- 10. Bài trình bày cuối khóa. Kiểm tra kiến thức chung về **bảo mật, tối ưu chi phí, các công cụ xây dựng kiến trúc...**
 	- 11. Bài thực hành cuối khóa. 
+
 - Học và thi **SA Associate**
 
 ## 4. Mission 4
