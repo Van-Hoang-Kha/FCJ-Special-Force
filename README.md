@@ -30,7 +30,7 @@
 - Học và thi Practitioner: [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?scr=detail) 
 
 ## 3. Mission 3
-
+- Tham gia và hoàn tất khóa học **Cloud Computing Architect**
 - Học và thi **SA Associate**
 
 ## 4. Mission 4
