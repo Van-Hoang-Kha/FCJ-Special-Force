@@ -12,7 +12,7 @@
 
 ### 1.2 Học làm Workshop
 
-- Để viết một Lab Guide, các bạn tham khảo [Cách viết một Lab Guide](https://van-hoang-kha.github.io/How-to-Write-Lab-Guides/)
+- Để viết một Lab Guide, các bạn tham khảo [Cách viết một Lab Guide](https://van-hoang-kha.github.io/vi/)
 
 ### 1.3 Học vẽ kiến trúc AWS 
 
